@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Guild Radar
+## Notes: Mostra no mapa os membros da guilda que também utilizam o addon.
+## Author: Valber Lima
+## Version: 1.0.0
+## SavedVariables: HellstormGuildMapDB
+
+GuildRadar.lua
